@@ -5,13 +5,13 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    ('Jason Tsao', 'jtsao22@ucla.edu'),
+    ('', ''),
 )
 
 MANAGERS = ADMINS
 
 SERVER_DIR = os.path.abspath(".")
-DB = os.path.join(SERVER_DIR, "django-boostrap-starter-db")
+DB = os.path.join(SERVER_DIR, "django-bootstrap-starter-db")
 
 DATABASES = {
     'default': {
