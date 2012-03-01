@@ -17,6 +17,7 @@ This app is a generic bootstrap-django starter that includes the following jquer
   * Tab
 
 The following jquery plugins are not included:
+
   * Carousel
   * Typeahead
 
